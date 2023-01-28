@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Natnael Assefa and I'm a  from Ethiopia</h2>
+<h2 align="center">Hi 👋! My name is Natnael Assefa</h2>
 
 ###
 
